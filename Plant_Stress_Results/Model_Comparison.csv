@@ -1,0 +1,3 @@
+Model,Predicted Class,Confidence (%)
+ALEXNET,Blast,38.346912
+VGG16,leaf_spot,85.92104

@@ -1,0 +1,3 @@
+Model,Actual Class,Predicted Class,Correct Prediction
+AlexNet,leaf_spot,Blast,False
+VGG16,leaf_spot,leaf_spot,True
