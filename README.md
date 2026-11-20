@@ -220,21 +220,7 @@ matplotlib
 pillow
 ```
 
-## 📸 Application Screenshots
 
-Add your actual application screenshots here after running Streamlit.
-
-### Home Dashboard
-
-![Home Dashboard](screenshots/home.png)
-
-### Disease Prediction
-
-![Disease Prediction](screenshots/prediction.png)
-
-### Model Comparison
-
-![Model Comparison](screenshots/comparison.png)
 
 ## 🔮 Future Enhancements
 
